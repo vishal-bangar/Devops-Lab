@@ -6,3 +6,5 @@
 #### Lab 4: [Build the pipeline of jobs using Maven in Jenkins](/Docs/5.md)
 #### Lab 5: [Implement Jenkins Master-Slave Architecture with Scaling](/Docs/6.md)
 #### Lab 6: [Demonstrate container lifecycle using various docker commands](/Docs/7.md)
+#### Lab 7: [Build an image for a sample web application from a docker file using various docker file instructions](/Docs/8.md)
+
