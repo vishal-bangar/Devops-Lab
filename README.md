@@ -7,4 +7,5 @@
 #### Lab 5: [Implement Jenkins Master-Slave Architecture with Scaling](/Docs/6.md)
 #### Lab 6: [Demonstrate container lifecycle using various docker commands](/Docs/7.md)
 #### Lab 7: [Build an image for a sample web application from a docker file using various docker file instructions](/Docs/8.md)
+#### Lab 8: [Install and configure software configuration management using Ansible](/Docs/9.md)
 
